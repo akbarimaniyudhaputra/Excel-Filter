@@ -4,12 +4,12 @@
 ## A. Pengertian Excel
  - adalah aplikasi dari microsoft kategori aplikasi “speedsheet” yang dapat digunakan untuk melakukan perhitungan, membuat grafik, membuat tabel pivot, hingga program makro.
 
-#### 1. Data Awal/Mentah 
+#### A.1. Data Awal/Mentah 
 - Diketahui sebuah data awal dalam bentuk data penjualan mentah, berikut bentuk datanya :
 
 ss1***
 
-#### 2. Menggandakan Data awal 
+#### A.2. Menggandakan Data awal 
 Menggandakan data awal di Excel dengan cara sebagai berikut :
 - 1.) Klik kanan pada nama sheet, kemudian pilih/klik move or Copy... , seperti pada gambar di bawah ini.
 ss2***
@@ -21,7 +21,7 @@ ss4***
 ## B. Fitur Filter
  - Untuk mempermudah & mempercepat dalam mengetahui/mempelajari isi data
 
-#### 1. Menggunakan Fitur Filter untuk Mengetahui Lokasi Mana Saja Yang Menjual Produk dalam data?
+#### B.1. Menggunakan Fitur Filter untuk Mengetahui Lokasi Mana Saja Yang Menjual Produk dalam data?
 dengan cara sebagai berikut :
 - 1.) Pertama blok judul kolom/field > kemudian klik Data > kemudian klik Filter. Lihat gambar di bawah ini agar lebih mudah.
 ss5***
@@ -31,10 +31,10 @@ ss5***(lambang arah panah bawah)
 ss6baru***(jendela baru)
 
 ## C. Tips Mempercepat mem-Blok Data di Excel
-#### Tips agar mempercepat mem-blok jika data banyak yang di blok dengan cara : 
+#### C.1. Tips agar mempercepat mem-blok jika data banyak yang di blok dengan cara : 
 - Klik di salah satu cell > kemudian tekan Ctrl + Shift + arah panah (bisa satu arah panah saja & bisa juga dikombinasikan berbagai arah panah)
-#### Jika ingin mem-blok data per cell  dengan cara : 
+#### C.2. Jika ingin mem-blok data per cell  dengan cara : 
 - Klik di salah satu cell > kemudian tekan Shift + arah panah (bisa satu arah panah saja & bisa juga dikombinasikan berbagai arah panah)
-#### Jika ingin loncat dari ujung data ke ujung data dengan cara : 
+#### C.3. Jika ingin loncat dari ujung data ke ujung data dengan cara : 
 - Klik di salah satu cell > kemudian tekan Shift + arah panah (bisa satu arah panah saja & bisa juga dikombinasikan berbagai arah panah)
 

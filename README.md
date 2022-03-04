@@ -32,11 +32,12 @@ dengan cara sebagai berikut :
 ###
 ![ss5](https://user-images.githubusercontent.com/86678205/156779123-f1290c91-c7d4-4494-a78c-305e070b6cb6.PNG)
 - 2.) Dari langkah-1 kita akan mendapatkan fitur filter pada setiap judul kolom/field. Kembali fokus pada pertanyaannya maka kita pilih/klik fitur filter pada kolom/field lokasi.
-ss5***(lambang arah panah bawah)
+###
+![ss panah bawah](https://user-images.githubusercontent.com/86678205/156781370-2537e151-203a-4cb7-87d0-2efab32ad575.PNG)
+
 - 3.) Muncul jendela baru, dari fungsi filter kita mendapatkan lokasi mana saja yang menjual produk dengan tidak ada data ganda/data duplicate, sehingga pertanyaan terjawab yaitu di 3 provinsi (Jatim, Jabodetabek, Jateng). Untuk mengetahui siapa saja patner/mitra & ada berapa bulan pada data tersebut dapat diketahui dengan cara yang sama dengan menggunakan fungsi filter.
 ###
 ![ss6](https://user-images.githubusercontent.com/86678205/156779213-fba78037-1092-46da-9c73-a0aaa32a630b.PNG)
-
 
 ## C. Tips Mempercepat mem-Blok Data di Excel
 #### C.1. Tips agar mempercepat mem-blok jika data banyak yang di blok dengan cara : 

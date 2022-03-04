@@ -30,7 +30,7 @@ Menggandakan data awal di Excel dengan cara sebagai berikut :
 dengan cara sebagai berikut :
 - 1.) Pertama blok judul kolom/field > kemudian klik Data > kemudian klik Filter. Lihat gambar di bawah ini agar lebih mudah.
 ###
-![ss5](https://user-images.githubusercontent.com/86678205/156779123-f1290c91-c7d4-4494-a78c-305e070b6cb6.PNG)
+![ss5 perbaikan](https://user-images.githubusercontent.com/86678205/156782505-b5faa126-3eff-4358-975e-2f173829b0bc.PNG)
 - 2.) Dari langkah-1 kita akan mendapatkan fitur filter pada setiap judul kolom/field. Kembali fokus pada pertanyaannya maka kita pilih/klik fitur filter pada kolom/field lokasi.
 ###
 ![ss panah bawah](https://user-images.githubusercontent.com/86678205/156781370-2537e151-203a-4cb7-87d0-2efab32ad575.PNG)
